@@ -1,0 +1,91 @@
+/* Global Section Start */
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+
+.header span a{
+    font-size: 17px;
+    padding: 5px 8px 5px 8px;
+
+}
+
+
+
+ .inner-pic{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.inner-pic img{
+    padding-left: 45px;
+   
+}
+.inner-elements{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 500px;
+}
+.inner-elements h4{
+    padding-left: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inner-elements h6{
+    padding-left: 130px;
+    padding-bottom: 20px;
+} 
+/* about me section start */
+ .about-lefr{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px; 
+}
+.about-right{
+    box-shadow: 10px 10px 5px gray;
+    border: 1px solid gray;
+    border-radius: 5px; 
+    padding-left: 65px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/* about me section close */
+
+
+
+/* chemistry section start */
+.submenu-sec1-header h3{
+    
+    text-align: center;
+    color: rgb(121, 6, 22);
+}
+
+.sec1-left-elements{
+    box-shadow: 10px 10px 5px;
+    border: 3px solid gray;
+    border-radius: 5px;
+}
+.sec1-right-elements{
+    box-shadow: 10px 10px 5px;
+    border: 3px solid gray;
+    border-radius: 5px;
+}
+
+.ptext{
+    color: coral;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+/* chemistry section close */
+/* contact start */
+
+ .location i{
+    position: absolute;
+    top: ;
+    left: ;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: coral;
+ }
